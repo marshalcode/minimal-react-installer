@@ -12,7 +12,7 @@ console.log("------------------------------------------");
 (async () => {
   const cwd = process.cwd();
   const currentDIR = __dirname;
-  const frame = 'clean-react-app';
+  const frame = 'minimal-react-app';
   const msg = `Successfully installed ${frame} ✅`;
   const dirToGo = `${cwd}/`;
   ncp(`${currentDIR}/template/`, dirToGo, err => {
