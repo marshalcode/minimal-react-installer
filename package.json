@@ -26,6 +26,14 @@
   ],
   "author": "abhishek",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshalcode/minimal-react-installer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marshalcode/minimal-react-installer.git/issues"
+  },
+  "homepage": "https://github.com/marshalcode/minimal-react-installer.git#readme",
   "dependencies": {
     "ncp": "^2.0.0"
   }
