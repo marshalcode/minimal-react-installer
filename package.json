@@ -1,0 +1,32 @@
+{
+  "name": "minimal-react-installer",
+  "version": "1.0.0",
+  "description": "A minimal react app repo to make our life easier",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "NodeJS",
+    "starter",
+    "kit",
+    "stack",
+    "node stack",
+    "mern stack",
+    "vue",
+    "react",
+    "redux",
+    "angular",
+    "gatsby",
+    "create-react-app",
+    "facebook",
+    "react app"
+  ],
+  "author": "abhishek",
+  "license": "MIT",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
